@@ -1,2 +1,4 @@
 # Amazon-Clone
-This is an amazon clone by using HTML CSS Javascript
+<<<<<<< HEAD
+This is an amazon clone bu using HTMl CSS Javascript 
+
